@@ -33,10 +33,11 @@ en:
   static_pages:
     home:
       title: "Home"
-      head: "Sample App"
+      head: "Welcome to the Sample App"
       pharra1: "This is the home page for the"
       pharra2: " sample application."
       link1: "Ruby on Rails Tutorial"
+      link3: "Sign up now!"
     help:
       title: "Help"
       head: "Help"
@@ -62,7 +63,24 @@ en:
       pharra1: "Contact the Ruby on Rails Tutorial about the sample app at the "
       link1: "contact page."
   layouts:
-    application:
-      title: "| Ruby on Rails Tutorial Sample App"
-  application_helper:
-    title: "Ruby on Rails Tutorial Sample App"
+    header:
+      nameApp: "Sample App"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+    footer:
+      charra1: "The "
+      charra2: " by "
+      link1: "Ruby on Rails Tutorial"
+      link2: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      link3: "News"
+  users:
+    new:
+      title: "Sign up"
+      charra1: "Sign up"
+      charra2: "This will be a signup page for new users."
+  helper:
+    application_helper:
+      title: "Ruby on Rails Tutorial Sample App"
