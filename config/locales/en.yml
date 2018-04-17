@@ -64,7 +64,7 @@ en:
       link1: "contact page."
   layouts:
     header:
-      nameApp: "Sample App"
+      nameapp: "Sample App"
       home: "Home"
       help: "Help"
       login: "Log in"
